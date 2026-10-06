@@ -67,7 +67,7 @@ The BizTalk connection details and "Signup Done" template are now configured via
 
 | Environment Variable | Description | Example |
 |----------------------|-------------|---------|
-| `KC_SPI_MESSAGE_SENDER_BIZTALK_BASE_URL` | BizTalk API Base URL | `https://kecp-biztalk.kdn.com:14343` |
+| `KC_SPI_MESSAGE_SENDER_BIZTALK_BASE_URL` | BizTalk API Base URL | `https://biztalk.com` |
 | `KC_SPI_MESSAGE_SENDER_BIZTALK_SYSTEM_KEY` | System Key | `key` |
 | `KC_SPI_MESSAGE_SENDER_BIZTALK_PROJECT_ID` | Project ID | `yourproject` |
 | `KC_SPI_MESSAGE_SENDER_BIZTALK_CALL_BACK_NO` | Callback Phone Number | `01000000000` |
